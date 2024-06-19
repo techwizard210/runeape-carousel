@@ -9,7 +9,6 @@ import slide3 from "./assets/images/slide3.png";
 import slide4 from "./assets/images/slide4.png";
 import slide5 from "./assets/images/slide4.png";
 
-
 function App() {
   const [visibleItemsCount, setVisibleItemsCount] = React.useState(3);
 
